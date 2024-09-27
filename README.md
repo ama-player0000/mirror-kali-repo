@@ -2,7 +2,7 @@
 ##mirror kali repo for downloading package in terminal 
 
 
-```conf
+```
 # See https://www.kali.org/docs/general-use/kali-linux-sources-list-repositories/
 #deb http://http.kali.org/kali kali-rolling main contrib non-free
 #deb http://http.kali.org/kali kali-experimental main contrib non-free
